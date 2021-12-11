@@ -1,0 +1,6 @@
+export const ActionTypes = {
+  LIST_USERS: "LIST_USERS",
+  ADD_USERS: "ADD_USERS",
+  UPDATE_USERS: "UPDATE_USERS",
+  DELETE_USERS: "DELETE_USERS",
+};
